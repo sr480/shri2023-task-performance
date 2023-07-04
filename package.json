@@ -18,9 +18,18 @@
   "homepage": "https://github.com/sr480/shri2023-task-performance#readme",
   "dependencies": {
     "@babel/cli": "^7.22.6",
-    "@babel/core": "^7.22.6",
     "@babel/preset-react": "^7.22.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.6",
+    "@babel/preset-env": "^7.22.5",
+    "@webpack-cli/generators": "^3.0.7",
+    "babel-loader": "^9.1.2",
+    "css-loader": "^6.8.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
   }
 }
