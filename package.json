@@ -1,0 +1,26 @@
+{
+  "name": "shri2023-task-performance",
+  "version": "1.0.0",
+  "description": "## Задание Оптимизировать страницу, выложить результат на Github-Pages и отправить его на проверку на [https://shri-performance.ru/](https://shri-performance.ru/), отправив адрес вашей страницы. Нужно набрать минимум **100 баллов**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sr480/shri2023-task-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sr480/shri2023-task-performance/issues"
+  },
+  "homepage": "https://github.com/sr480/shri2023-task-performance#readme",
+  "dependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.6",
+    "@babel/preset-react": "^7.22.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
