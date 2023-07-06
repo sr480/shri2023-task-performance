@@ -12,7 +12,7 @@ const stylesHandler = 'style-loader';
 const config = {
     entry: './src/main.jsx',
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'vendors'),
     },
     plugins: [
         // Add your plugins here

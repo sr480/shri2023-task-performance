@@ -20,7 +20,9 @@
     "@babel/cli": "^7.22.6",
     "@babel/preset-react": "^7.22.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-virtualized-auto-sizer": "^1.0.20",
+    "react-window": "^1.8.9"
   },
   "devDependencies": {
     "@babel/core": "^7.22.6",
