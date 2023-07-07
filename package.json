@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "shri2023-task-performance",
   "version": "1.0.0",
   "description": "## Задание Оптимизировать страницу, выложить результат на Github-Pages и отправить его на проверку на [https://shri-performance.ru/](https://shri-performance.ru/), отправив адрес вашей страницы. Нужно набрать минимум **100 баллов**.",
@@ -19,6 +20,8 @@
   "dependencies": {
     "@babel/cli": "^7.22.6",
     "@babel/preset-react": "^7.22.5",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
     "prerender-spa-plugin": "^3.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
